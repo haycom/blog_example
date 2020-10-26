@@ -1,0 +1,30 @@
+blog_title: "Blog"
+blog_description: "A blog for example"
+blog_logo: logo.svg"
+author_name: ""
+author_email: ""
+author_image_filename: ""
+posts_dir: "posts"
+pages_dir: "pages"
+images_dir: "assets/images"
+github_username: ""
+posts_per_page: 6
+allow_disqus: false
+cookie_consent_popup: true
+
+sidebar_links:
+  - title: google
+    link: https://google.com
+  - title: yahoo
+    link: https://yahoo.com
+
+sidebar_social_links:
+  - link: https://www.facebook.com/your_account/
+    faclass: fab fa-facebook fa-2x
+    colorcode: #3b5998
+
+nav_links:
+  - title: about
+    page: about.md
+  - title: contact us
+    page: contactus.md
