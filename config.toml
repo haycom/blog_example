@@ -1,0 +1,12 @@
+[[blog]]
+name = "blog_example"
+title = "Blog"
+url = "https://github.com/threefoldfoundation/blog_example"
+path = ""
+autocommit = false
+branch = "master"
+branchswitch = true
+srcdir = ""
+#environment name (for example:  production, staging, testing)
+environment = ""
+domain = "blog.example.com"
